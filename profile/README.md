@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Dhruv Malik</h1>
 
 <p align="center">
-  <i>Building at the intersection of AI, Blockchain, and Quantum Computing</i>
+  <i>Building at the intersection of Gen-AI, Blockchain, and spatial intelligence to build net job creating ecosystem</i>. 
 </p>
 
 <p align="center">
@@ -15,12 +15,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate technologist exploring the frontiers of exponential technologies. My journey spans across artificial intelligence, blockchain ecosystems, and quantum computing, with a focus on building practical applications that push the boundaries of what's possible.
+I'm a passionate technologist exploring the frontiers of exponential technologies. My journey spans across artificial intelligence, blockchain infra, security auditing, with a focus on building practical applications that push the boundaries of what's possible.
 
-- 🎓 **Background**: Computer Science & Data Science
-- 🔬 **Research Interests**: Deep Learning, Quantum Computing, Blockchain Technology
+- 🎓 **Background**: Computer Science & Cybersecurity 
+- 🔬 **Research Interests**: Deep Learning, Quantum Computing, Cybersecurity. 
 - 🌱 **Currently Learning**: Advanced AI Agents, Formal Verification, DeFi Protocols
-- 💡 **Philosophy**: Building at the intersection of emerging technologies to create impact
+- 💡 **Philosophy**: Building at the intersection of emerging technologies to create net positive impact. 
 
 ---
 
@@ -133,20 +133,14 @@ I'm a passionate technologist exploring the frontiers of exponential technologie
   <a href="https://github.com/dhruvmalik007">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/dhruvmalik007">
+  <a href="https://linkedin.com/in/dhruv-m4lik">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:malikdhruv1994@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>💡 "The best way to predict the future is to invent it." - Alan Kay</i>
-</p>
-
-<p align="center">
-  <i>⚡ Always learning, always building, always exploring the next frontier of technology</i>
-</p>
+## Weekly Changelogs:
